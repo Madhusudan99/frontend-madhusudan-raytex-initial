@@ -1,0 +1,14 @@
+img {
+    width: 250px;
+    height: 150px;
+    padding: 2px;
+    border: 1px solid black;
+    box-shadow: 6px 5px 6px lightgrey;
+}
+
+.card {
+    display: inline;
+    margin: 20px;
+    /* border: 1px solid black; */
+    padding: 5px;
+}

@@ -1,0 +1,20 @@
+.userform {
+    display: flex;
+    margin: 100px;
+}
+#user-formdiv * {
+    margin: 20px;
+    justify-content: center;
+}
+
+ /* .userform {
+     position: relative;
+     width:350px;
+     height: 200px;
+ }
+
+ div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+ } */
