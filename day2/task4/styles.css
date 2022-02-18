@@ -36,7 +36,7 @@ img {
 }
 
 
-
+/* 
 .footerSection1 {
     float: left;
     width: 50%;
@@ -46,4 +46,15 @@ img {
 .footerSection2 {
     width: 50%;
     float: right;
+} */
+
+.footer {
+    background-color: #6e3d7c;
+    padding-bottom: 40px;
 }
+
+.footerSection1 {
+    float: left;
+    width: 50%;
+}
+
