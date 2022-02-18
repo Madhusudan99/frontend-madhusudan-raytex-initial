@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #6e3d7c;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+.navlink {
+    display: inline;
+    margin: 0 10px;
+}
+
+.navAnchor {
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 15px;
+}
+
+.logo {
+    margin-right: 70px;
+}
+
+.navLOGO {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+}
+
+
+
+.footerSection1 {
+    float: left;
+    width: 50%;
+}
+
+
+.footerSection2 {
+    width: 50%;
+    float: right;
+}
