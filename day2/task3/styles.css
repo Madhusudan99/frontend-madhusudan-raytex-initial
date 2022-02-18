@@ -1,0 +1,18 @@
+.profileImage {
+    width: 50%;
+    display: inline;
+    float: left;
+
+}
+
+.resumeDetails {
+    width: 50%;
+    float: right;
+    background-color: bisque;
+    text-align: center;
+}
+
+img {
+    margin-left: 25%;
+    margin-top: 25%;
+}
