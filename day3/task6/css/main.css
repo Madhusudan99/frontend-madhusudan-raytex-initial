@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: rgb(29, 76, 175);
+    padding: 10px;
+}
+
+
+.navitems {
+    display: inline;
+}
+
+.mr500 {
+    margin-right: 380px;
+}
+
+.logo {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 2.5em;
+    padding: 25px 40px;
+    font-family: 'Pacifico', cursive;
+}
+
+.navlinks {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+
+    padding: 10px 35px;
+}
+
+
+.product-image {
+    height: 265px;
+    margin: 20px;
+}
+
+.add-to-cart {
+    border: 1px solid green;
+    text-align: center;
+    margin: 20px;
+    padding: 10px 100px;
+    text-decoration: none;
+    background: rgb(55, 167, 55);
+    color: white;
+    font-size: large;
+}
+
+.product {
+    float: left;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 5px 100px;
+    border: 1px solid  rgb(29, 76, 175);
+    color: white;
+    font-size: large;
+    background-color: rgb(29, 76, 175);
+}
+
+.container {
+    width: 60%;
+    margin: 100px 500px;
+}
