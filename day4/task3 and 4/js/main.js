@@ -114,7 +114,7 @@ function submitUserForm() {
         // let child = document.createTextNode(textNode);
         // node.appendChild(child);
 
-        tableData1.appendChild(textNode1);
+        tableHead.appendChild(textNode1);
         tableData2.appendChild(textNode2);
         tableData3.appendChild(textNode3);
         tableData4.appendChild(textNode4);
@@ -126,7 +126,7 @@ function submitUserForm() {
         // tableData10.appendChild(textNode10);
 
         tableRow.appendChild(tableHead);
-        tableRow.appendChild(tableData1);
+        // tableRow.appendChild(tableData1);
         tableRow.appendChild(tableData2);
         tableRow.appendChild(tableData3);
         tableRow.appendChild(tableData4);
