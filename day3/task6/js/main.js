@@ -7,3 +7,15 @@ function submitContactForm() {
     console.log(email);
     console.log(phone);
 }
+addToCartAnchors = document.getElementsByClassName("add-to-cart")
+for(let i=0; i<addToCartAnchors.length; i++) {
+    addToCartAnchors[i].addEventListener("click", incrementCounter);
+
+}
+    
+    
+let counter = 0;
+function incrementCounter() {
+    counter++;
+    document.getElementById("cartItems").innerHTML = "View Cart("+ counter +")";
+}
